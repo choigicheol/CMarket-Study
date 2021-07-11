@@ -1,0 +1,29 @@
+.header{
+  text-align: center;
+}
+
+.eachList{
+  list-style: none;
+    vertical-align: middle;
+
+}
+
+.checkbox{
+  width: 1.2rem;
+  height: 1.2rem;
+  vertical-align: middle;
+}
+
+.checkboxOn{
+  font-size: 1.5rem;
+  margin-left : 1rem;
+  vertical-align: middle;
+  text-decoration: line-through;
+  color : rgb(186, 185, 185);
+}
+
+.checkboxOff{
+  font-size: 1.5rem;
+  margin-left : 1rem;
+  vertical-align: middle;
+}
