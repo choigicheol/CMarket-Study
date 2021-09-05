@@ -34,6 +34,7 @@ function App() {
     <>
       <ItemListContainer items={items} handleAdd={addToCart} />
       {console.log(items)}
+      <h1>'테스트테스트'</h1>
       <ShoppingCart cartItems={cartItems}/>
     </>
   );
